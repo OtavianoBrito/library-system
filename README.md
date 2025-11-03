@@ -45,3 +45,19 @@ It allows users to **register, list, search, update, and delete books**, as well
 🧠 Built entirely in **vanilla Python**, focusing on **logic practice and clean terminal interaction**.
 
 ---
+
+## 👥 Colaboradores
+
+Agradecimentos especiais aos colaboradores que contribuíram para o desenvolvimento deste projeto 👇
+
+| Nome | GitHub |
+|------|---------|
+| **Dias gabriel** | [@gabrieldiiaas2](https://github.com/gabrieldiiaas2) |
+| **Otaviano Brito** | [@OtavianoBrito](https://github.com/OtavianoBrito) |
+| **Wallan Corrêa** | [@wallancorrea](https://github.com/wallancorrea) |
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1724,100:000000&height=120&section=footer"/>
+</p>
